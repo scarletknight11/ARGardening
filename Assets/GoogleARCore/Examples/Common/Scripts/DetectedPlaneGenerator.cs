@@ -60,7 +60,7 @@ namespace GoogleARCore.Examples.Common
                 // transform is set to the origin with an identity rotation since the mesh for our
                 // prefab is updated in Unity World coordinates.
                 GameObject planeObject =
-                    Instantiate(DetectedPlanePrefab, Vector3.zero, Quaternion.identity, transform);
+                Instantiate(DetectedPlanePrefab, Vector3.zero, Quaternion.identity, transform);
                 planeObject.GetComponent<DetectedPlaneVisualizer>().Initialize(_newPlanes[i]);
             }
         }
