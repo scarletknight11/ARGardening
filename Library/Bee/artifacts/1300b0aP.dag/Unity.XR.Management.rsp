@@ -98,12 +98,17 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
--define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
--define:UNITY_POST_PROCESSING_STACK_V2
 -define:UNITY_ANALYTICS
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Firebase/Plugins/Firebase.App.dll"
+-r:"Assets/Firebase/Plugins/Firebase.Auth.dll"
+-r:"Assets/Firebase/Plugins/Firebase.Platform.dll"
+-r:"Assets/Firebase/Plugins/Firebase.TaskExtension.dll"
+-r:"Assets/Firebase/Plugins/Google.MiniJson.dll"
+-r:"Assets/Parse/Plugins/dotNet45/Unity.Compat.dll"
+-r:"Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll"
@@ -281,14 +286,16 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VRModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.WindModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.XRModule.dll"
+-r:"C:/Users/sanji/OneDrive/Desktop/ARFoundation/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT/Newtonsoft.Json.dll"
+-r:"C:/Users/sanji/OneDrive/Desktop/ARFoundation/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/IXRLoaderPreInit.cs"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/XRConfigurationData.cs"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/XRGeneralSettings.cs"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/XRLoader.cs"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/XRLoaderHelper.cs"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/XRManagementAnalytics.cs"
-"Library/PackageCache/com.unity.xr.management@4.0.6/Runtime/XRManagerSettings.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/IXRLoaderPreInit.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/XRConfigurationData.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/XRGeneralSettings.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/XRLoader.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/XRLoaderHelper.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/XRManagementAnalytics.cs"
+"Library/PackageCache/com.unity.xr.management@4.0.5/Runtime/XRManagerSettings.cs"
 -langversion:8.0
 
 /deterministic

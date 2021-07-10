@@ -1,33 +1,218 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/sanji/OneDrive/Desktop/UnityFirebaseAuthTutorial-master/FirebaseAuthTutorialStarterProject/Packages/manifest.json
+    m_FilePath: C:/Users/sanji/OneDrive/Desktop/ARFoundation/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637609716812129633
-    m_Hash: 385608944
+      ticks: 637614067663213447
+    m_Hash: 4041412568
   m_LockFileStatus:
-    m_FilePath: C:/Users/sanji/OneDrive/Desktop/UnityFirebaseAuthTutorial-master/FirebaseAuthTutorialStarterProject/Packages/packages-lock.json
+    m_FilePath: C:/Users/sanji/OneDrive/Desktop/ARFoundation/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637609716812209655
-    m_Hash: 1817146967
+      ticks: 637614067663283436
+    m_Hash: 3999816340
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/Users/sanji/OneDrive/Desktop/UnityFirebaseAuthTutorial-master/FirebaseAuthTutorialStarterProject/Packages
+m_ProjectPath: C:/Users/sanji/OneDrive/Desktop/ARFoundation/Packages
 m_EditorVersion: 2021.1.13f1 (a03098edbbe0)
 m_ResolvedPackages:
+- packageId: com.unity.collab-proxy@1.5.7
+  testable: 0
+  isDirectDependency: 1
+  version: 1.5.7
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.collab-proxy@1.5.7
+  assetPath: Packages/com.unity.collab-proxy
+  name: com.unity.collab-proxy
+  displayName: Version Control
+  author:
+    name: 
+    email: 
+    url: 
+  category: Editor
+  type: 
+  description: The Version Control package gives you the ability to use either Collaborate
+    or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic SCM for Unity
+    (beta), a Plastic SCM subscription is required. Learn more about how you can
+    get started for free by visiting plasticscm.com.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.2.3-preview
+    - 1.2.4-preview
+    - 1.2.6
+    - 1.2.7
+    - 1.2.9
+    - 1.2.11
+    - 1.2.15
+    - 1.2.16
+    - 1.2.17-preview.3
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.9
+    - 1.5.7
+    - 2.0.0-preview.6
+    - 2.0.0-preview.8
+    - 2.0.0-preview.15
+    - 2.0.0-preview.17
+    - 2.0.0-preview.20
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.1.0-preview.3
+    - 2.1.0-preview.5
+    - 2.1.0-preview.6
+    compatible:
+    - 1.5.7
+    - 2.0.0-preview.6
+    - 2.0.0-preview.8
+    - 2.0.0-preview.15
+    - 2.0.0-preview.17
+    - 2.0.0-preview.20
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.1.0-preview.3
+    - 2.1.0-preview.5
+    - 2.1.0-preview.6
+    verified: 1.5.7
+  dependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 2.0.0
+  resolvedDependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 2.0.0
+  keywords:
+  - vsc
+  - version
+  - control
+  - collab
+  - collaboration
+  - collaborate
+  - teams
+  - team
+  - cloud
+  - backup
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637551413290000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
+    revision: f079d307344f568804d3ea6d781013135e614e45
+    path: 
+  unityLifecycle:
+    version: 1.5.7
+    nextVersion: 
+- packageId: com.unity.ide.rider@3.0.7
+  testable: 0
+  isDirectDependency: 1
+  version: 3.0.7
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.ide.rider@3.0.7
+  assetPath: Packages/com.unity.ide.rider
+  name: com.unity.ide.rider
+  displayName: JetBrains Rider Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The JetBrains Rider Editor package provides an integration for using
+    the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
+    .csproj files for code completion and auto-discovery of installations.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.2
+    - 1.0.6
+    - 1.0.8
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2-preview
+    - 1.1.2-preview.2
+    - 1.1.3-preview.1
+    - 1.1.4-preview
+    - 1.1.4
+    - 1.2.0-preview
+    - 1.2.1
+    - 2.0.0-preview
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.5
+    - 2.0.7
+    - 3.0.1
+    - 3.0.2
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.7
+    compatible:
+    - 3.0.7
+    verified: 3.0.7
+  dependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  resolvedDependencies:
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637572251600000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
+    revision: 3007c42a679bbe2c082c276e8d79279110964553
+    path: 
+  unityLifecycle:
+    version: 3.0.7
+    nextVersion: 
 - packageId: com.unity.ide.visualstudio@2.0.9
   testable: 0
   isDirectDependency: 1
   version: 2.0.9
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -58,15 +243,17 @@ m_ResolvedPackages:
     - 2.0.7
     - 2.0.8
     - 2.0.9
+    - 2.0.11
     compatible:
     - 2.0.9
-    verified: 2.0.9
+    - 2.0.11
+    verified: 2.0.11
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
   resolvedDependencies:
   - name: com.unity.test-framework
-    version: 1.1.27
+    version: 1.1.26
   - name: com.unity.ext.nunit
     version: 1.0.6
   - name: com.unity.modules.imgui
@@ -102,7 +289,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.3
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.ide.vscode@1.2.3
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.ide.vscode@1.2.3
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -159,148 +346,120 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.3
     nextVersion: 
-- packageId: com.unity.inputsystem@1.0.2
+- packageId: com.unity.learn.iet-framework@1.2.3
   testable: 0
   isDirectDependency: 1
-  version: 1.0.2
+  version: 1.2.3
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.inputsystem@1.0.2
-  assetPath: Packages/com.unity.inputsystem
-  name: com.unity.inputsystem
-  displayName: Input System
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.learn.iet-framework@1.2.3
+  assetPath: Packages/com.unity.learn.iet-framework
+  name: com.unity.learn.iet-framework
+  displayName: Tutorial Framework
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: A new input system which can be used as a more extensible and customizable
-    alternative to Unity's classic input system in UnityEngine.Input.
+  description: This package is used to display interactive in-Editor tutorials in
+    tutorial projects and project templates. This package is meant to be used only
+    by Unity internally.
   status: 4
   errors: []
   versions:
     all:
-    - 0.1.2-preview
-    - 0.2.0-preview
-    - 0.2.1-preview
-    - 0.2.6-preview
-    - 0.2.8-preview
-    - 0.2.10-preview
-    - 0.9.0-preview
-    - 0.9.1-preview
-    - 0.9.2-preview
-    - 0.9.3-preview
-    - 0.9.4-preview
-    - 0.9.5-preview
-    - 0.9.6-preview
-    - 1.0.0-preview
-    - 1.0.0-preview.1
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.6
-    - 1.0.0-preview.7
+    - 0.1.4-preview
+    - 0.1.8-preview
+    - 0.1.10-preview
+    - 0.1.12-preview.2
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.2.0-preview.1
+    - 0.2.1-preview.1
+    - 0.2.2-preview
+    - 0.2.3-preview.1
+    - 0.3.0-preview.5
+    - 0.4.0-preview.1
+    - 0.5.0-preview.2
+    - 0.5.1-preview
+    - 0.5.1-preview.1
     - 1.0.0
     - 1.0.1
     - 1.0.2
-    - 1.1.0-pre.5
-    - 1.1.0-preview.1
+    - 1.0.3-preview.1
+    - 1.0.3-preview.2
+    - 1.0.3
     - 1.1.0-preview.2
     - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.0
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 2.0.0-pre.1
+    - 2.0.0-pre.3
+    - 2.0.0-pre.4
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0
     compatible:
+    - 0.1.4-preview
+    - 0.1.8-preview
+    - 0.1.10-preview
+    - 0.1.12-preview.2
+    - 0.1.13-preview
+    - 0.1.14-preview
+    - 0.1.15-preview
+    - 0.1.16-preview
+    - 0.1.17-preview
+    - 0.1.18-preview
+    - 0.2.0-preview.1
+    - 0.2.1-preview.1
+    - 0.2.2-preview
+    - 0.2.3-preview.1
+    - 0.3.0-preview.5
+    - 0.4.0-preview.1
+    - 0.5.0-preview.2
+    - 0.5.1-preview
+    - 0.5.1-preview.1
+    - 1.0.0
+    - 1.0.1
     - 1.0.2
-    - 1.1.0-pre.5
-    - 1.1.0-preview.1
+    - 1.0.3-preview.1
+    - 1.0.3-preview.2
+    - 1.0.3
     - 1.1.0-preview.2
     - 1.1.0-preview.3
-    verified: 1.0.2
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - input
-  - events
-  - keyboard
-  - mouse
-  - gamepad
-  - touch
-  - vr
-  - xr
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hasRegistry: 1
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637468486210000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+https://github.com/Unity-Technologies/InputSystem.git
-    revision: 041def76515febb36a83d1f928cfb7aefb85176c
-    path: 
-  unityLifecycle:
-    version: 1.0.2
-    nextVersion: 
-- packageId: com.unity.multiplayer-hlapi@1.0.8
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.8
-  source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.multiplayer-hlapi@1.0.8
-  assetPath: Packages/com.unity.multiplayer-hlapi
-  name: com.unity.multiplayer-hlapi
-  displayName: Multiplayer HLAPI
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The high level API component of the Unity Multiplayer system.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.2.4-preview
-    - 0.2.5-preview
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.4
-    - 1.0.6
-    - 1.0.8
-    - 1.1.1
-    compatible:
-    - 0.2.4-preview
-    - 0.2.5-preview
-    - 1.0.0
-    - 1.0.1
-    - 1.0.2
-    - 1.0.4
-    - 1.0.6
-    - 1.0.8
-    - 1.1.1
+    - 1.1.0-preview.4
+    - 1.1.0
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 2.0.0-pre.1
+    - 2.0.0-pre.3
+    - 2.0.0-pre.4
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0
     verified: 
   dependencies:
-  - name: nuget.mono-cecil
-    version: 0.1.6-preview
+  - name: com.unity.editorcoroutines
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.2
   resolvedDependencies:
-  - name: nuget.mono-cecil
-    version: 0.1.6-preview
+  - name: com.unity.editorcoroutines
+    version: 1.0.0
+  - name: com.unity.settings-manager
+    version: 1.0.3
   keywords:
-  - multiplayer
-  - networking
-  - hlapi
-  - high-level
-  - api
+  - tutorials
   registry:
     id: main
     name: 
@@ -313,452 +472,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637436636210000000
+  datePublishedTicks: 637504962200000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.multiplayer-hlapi.git
-    revision: 0358096b3626d60d1345cfa6df97fcb2dc89152e
+    url: https://github.cds.internal.unity3d.com/unity/iet-package.git
+    revision: d8844989d65f92c6dede187e8149d129ac4f6a41
     path: 
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.postprocessing@3.1.1
+- packageId: com.unity.test-framework@1.1.26
   testable: 0
   isDirectDependency: 1
-  version: 3.1.1
+  version: 1.1.26
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.postprocessing@3.1.1
-  assetPath: Packages/com.unity.postprocessing
-  name: com.unity.postprocessing
-  displayName: Post Processing
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The post-processing stack (v2) comes with a collection of effects
-    and image filters you can apply to your cameras to improve the visuals of your
-    games.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.1.7
-    - 0.1.8
-    - 2.0.0-beta
-    - 2.0.1-beta
-    - 2.0.2-preview
-    - 2.0.3-preview
-    - 2.0.5-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 2.0.9-preview
-    - 2.0.10-preview
-    - 2.0.11-preview
-    - 2.0.12-preview
-    - 2.0.13-preview
-    - 2.0.14-preview
-    - 2.0.15-preview
-    - 2.0.16-preview
-    - 2.0.17-preview
-    - 2.1.0
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.5
-    - 2.1.6
-    - 2.1.7
-    - 2.2.1
-    - 2.2.2
-    - 2.3.0
-    - 3.0.1
-    - 3.0.3
-    - 3.1.0
-    - 3.1.1
-    compatible:
-    - 3.1.1
-    verified: 3.1.1
-  dependencies:
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hasRegistry: 1
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637576678760000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+https://github.com/Unity-Technologies/Graphics.git
-    revision: 075b452f2c4bf910a168632b3cedbd6835477ddd
-    path: 
-  unityLifecycle:
-    version: 3.1.1
-    nextVersion: 
-- packageId: com.unity.render-pipelines.universal@11.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 11.0.0
-  source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.render-pipelines.universal@11.0.0
-  assetPath: Packages/com.unity.render-pipelines.universal
-  name: com.unity.render-pipelines.universal
-  displayName: Universal RP
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The Universal Render Pipeline (URP) is a prebuilt Scriptable Render
-    Pipeline, made by Unity. URP provides artist-friendly workflows that let you
-    quickly and easily create optimized graphics across a range of platforms, from
-    mobile to high-end consoles and PCs.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.14
-    - 9.0.0-preview.35
-    - 9.0.0-preview.55
-    - 9.0.0-preview.72
-    - 10.0.0-preview.26
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 11.0.0
-    compatible:
-    - 11.0.0
-    verified: 11.0.0
-  dependencies:
-  - name: com.unity.mathematics
-    version: 1.1.0
-  - name: com.unity.render-pipelines.core
-    version: 11.0.0
-  - name: com.unity.shadergraph
-    version: 11.0.0
-  resolvedDependencies:
-  - name: com.unity.mathematics
-    version: 1.2.1
-  - name: com.unity.render-pipelines.core
-    version: 11.0.0
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.shadergraph
-    version: 11.0.0
-  - name: com.unity.searcher
-    version: 4.3.2
-  keywords:
-  - graphics
-  - performance
-  - rendering
-  - mobile
-  - render
-  - pipeline
-  registry:
-    id: 
-    name: 
-    url: 
-    scopes: []
-    isDefault: 0
-    capabilities: 0
-  hasRegistry: 0
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 11.0.0
-    nextVersion: 
-- packageId: com.unity.shadergraph@11.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 11.0.0
-  source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.shadergraph@11.0.0
-  assetPath: Packages/com.unity.shadergraph
-  name: com.unity.shadergraph
-  displayName: Shader Graph
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The Shader Graph package adds a visual Shader editing tool to Unity.
-    You can use this tool to create Shaders in a visual way instead of writing code.
-    Specific render pipelines can implement specific graph features. Currently, both
-    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
-    Shader Graph.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.1.8
-    - 0.1.9
-    - 0.1.17
-    - 1.0.0-beta
-    - 1.1.1-preview
-    - 1.1.2-preview
-    - 1.1.3-preview
-    - 1.1.4-preview
-    - 1.1.5-preview
-    - 1.1.6-preview
-    - 1.1.8-preview
-    - 1.1.9-preview
-    - 2.0.1-preview
-    - 2.0.3-preview
-    - 2.0.4-preview
-    - 2.0.4-preview.1
-    - 2.0.5-preview
-    - 2.0.6-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 3.0.0-preview
-    - 3.1.0-preview
-    - 3.3.0-preview
-    - 4.0.0-preview
-    - 4.0.1-preview
-    - 4.1.0-preview
-    - 4.2.0-preview
-    - 4.3.0-preview
-    - 4.6.0-preview
-    - 4.8.0-preview
-    - 4.9.0-preview
-    - 4.10.0-preview
-    - 5.0.0-preview
-    - 5.1.0
-    - 5.2.0
-    - 5.2.1
-    - 5.2.2
-    - 5.2.3
-    - 5.3.1
-    - 5.6.1
-    - 5.7.2
-    - 5.8.2
-    - 5.9.0
-    - 5.10.0
-    - 5.13.0
-    - 5.16.1
-    - 6.5.2
-    - 6.5.3
-    - 6.7.1
-    - 6.9.0
-    - 6.9.1
-    - 6.9.2
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.14
-    - 9.0.0-preview.34
-    - 9.0.0-preview.55
-    - 9.0.0-preview.72
-    - 10.0.0-preview.27
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 11.0.0
-    compatible:
-    - 11.0.0
-    verified: 11.0.0
-  dependencies:
-  - name: com.unity.render-pipelines.core
-    version: 11.0.0
-  - name: com.unity.searcher
-    version: 4.3.1
-  resolvedDependencies:
-  - name: com.unity.render-pipelines.core
-    version: 11.0.0
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.searcher
-    version: 4.3.2
-  keywords: []
-  registry:
-    id: 
-    name: 
-    url: 
-    scopes: []
-    isDefault: 0
-    capabilities: 0
-  hasRegistry: 0
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 11.0.0
-    nextVersion: 
-- packageId: com.unity.subsystemregistration@1.1.0
-  testable: 0
-  isDirectDependency: 1
-  version: 1.1.0
-  source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.subsystemregistration@1.1.0
-  assetPath: Packages/com.unity.subsystemregistration
-  name: com.unity.subsystemregistration
-  displayName: Subsystem Registration
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Provides internal registration mechanism for standalone subsystems. 
-    It allows a standalone subsystem to inform the Subsystem Manager of its existence.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.4
-    - 1.0.4
-    - 1.0.5
-    - 1.0.6
-    - 1.1.0
-    compatible:
-    - 1.1.0
-    verified: 1.1.0
-  dependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - subsystem
-  - registration
-  - internal
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hasRegistry: 1
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637314426150000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.subsystemregistration.git
-    revision: 72584ba5248fbe79e560e795ad819f876954fceb
-    path: 
-  unityLifecycle:
-    version: 1.1.0
-    nextVersion: 
-- packageId: com.unity.test-framework@1.1.27
-  testable: 0
-  isDirectDependency: 1
-  version: 1.1.27
-  source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.test-framework@1.1.27
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.test-framework@1.1.26
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -836,13 +566,13 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637594751620000000
+  datePublishedTicks: 637576439750000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-    revision: c2f2cc9b7ea61d42964257363595dff5e8c47c42
+    revision: ea9d07e64e6d63c4f2fd8b6bc57df0f452ff4fae
     path: 
   unityLifecycle:
     version: 1.1.26
@@ -852,7 +582,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1004,12 +734,153 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.6
     nextVersion: 
+- packageId: com.unity.timeline@1.5.5
+  testable: 0
+  isDirectDependency: 1
+  version: 1.5.5
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.timeline@1.5.5
+  assetPath: Packages/com.unity.timeline
+  name: com.unity.timeline
+  displayName: Timeline
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Use Unity Timeline to create cinematic content, game-play sequences,
+    audio sequences, and complex particle effects.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.2.5
+    - 1.2.6
+    - 1.2.7
+    - 1.2.9
+    - 1.2.10
+    - 1.2.11
+    - 1.2.12
+    - 1.2.13
+    - 1.2.14
+    - 1.2.15
+    - 1.2.16
+    - 1.2.17
+    - 1.2.18
+    - 1.3.0-preview.2
+    - 1.3.0-preview.3
+    - 1.3.0-preview.5
+    - 1.3.0-preview.6
+    - 1.3.0-preview.7
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.5
+    - 1.4.0-preview.6
+    - 1.4.0-preview.7
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 1.4.5
+    - 1.4.6
+    - 1.4.7
+    - 1.4.8
+    - 1.5.0-pre.2
+    - 1.5.0-preview.1
+    - 1.5.0-preview.2
+    - 1.5.0-preview.3
+    - 1.5.0-preview.4
+    - 1.5.0-preview.5
+    - 1.5.1-pre.1
+    - 1.5.1-pre.2
+    - 1.5.1-pre.3
+    - 1.5.2
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6
+    - 1.6.0-pre.1
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0-pre.5
+    - 1.6.1
+    compatible:
+    - 1.5.5
+    - 1.5.6
+    - 1.6.0-pre.1
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0-pre.5
+    - 1.6.1
+    verified: 1.5.6
+  dependencies:
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.director
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  keywords:
+  - unity
+  - animation
+  - editor
+  - timeline
+  - tools
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637557616440000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
+    revision: 4bb067f24973c7cfa1e4a453615e43083ce6855d
+    path: 
+  unityLifecycle:
+    version: 1.5.5
+    nextVersion: 
 - packageId: com.unity.toolchain.win-x86_64-linux-x86_64@0.1.20-preview
   testable: 0
   isDirectDependency: 1
   version: 0.1.20-preview
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@0.1.20-preview
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.toolchain.win-x86_64-linux-x86_64@0.1.20-preview
   assetPath: Packages/com.unity.toolchain.win-x86_64-linux-x86_64
   name: com.unity.toolchain.win-x86_64-linux-x86_64
   displayName: Toolchain Win Linux x64
@@ -1102,7 +973,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1162,12 +1033,111 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.0
     nextVersion: 
+- packageId: com.unity.visualscripting@1.6.1
+  testable: 0
+  isDirectDependency: 1
+  version: 1.6.1
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.visualscripting@1.6.1
+  assetPath: Packages/com.unity.visualscripting
+  name: com.unity.visualscripting
+  displayName: Visual Scripting
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "Visual Scripting, previously known as BOLT, is an alternative workflow
+    to design behaviours. Instead of the classic method of writing a C# script, visual
+    scripting offers a way to design behaviours intuitively without code, by connecting
+    events, actions, and data together in a graph. \n\nBoth programmers and non-programmers
+    can use node-based graphs to design final logic or to quickly create prototypes.
+    This package also features an API that programmers can use for more advanced
+    tasks, or to create custom nodes that can be used by other team members."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.5.0
+    - 1.5.1-pre.3
+    - 1.5.1-pre.5
+    - 1.5.1
+    - 1.5.2
+    - 1.6.0-pre.3
+    - 1.6.0
+    - 1.6.1
+    - 1.7.1
+    - 1.7.2
+    compatible:
+    - 1.6.1
+    - 1.7.1
+    - 1.7.2
+    verified: 1.6.1
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.particlesystem
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637547228050000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.visualscripting.git
+    revision: d2dc8205ed231b4fc18289dddb14c0a92c76154f
+    path: 
+  unityLifecycle:
+    version: 1.6.1
+    nextVersion: 
 - packageId: com.unity.xr.arcore@4.1.7
   testable: 0
   isDirectDependency: 1
   version: 4.1.7
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.arcore@4.1.7
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.arcore@4.1.7
   assetPath: Packages/com.unity.xr.arcore
   name: com.unity.xr.arcore
   displayName: ARCore XR Plugin
@@ -1292,7 +1262,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.xr.management
-    version: 4.0.6
+    version: 4.0.5
   - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.physics
@@ -1338,7 +1308,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 4.1.7
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.arfoundation@4.1.7
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.arfoundation@4.1.7
   assetPath: Packages/com.unity.xr.arfoundation
   name: com.unity.xr.arfoundation
   displayName: AR Foundation
@@ -1456,7 +1426,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
   - name: com.unity.xr.management
-    version: 4.0.6
+    version: 4.0.5
   - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.physics
@@ -1497,74 +1467,420 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 4.1.7
     nextVersion: 
-- packageId: com.unity.xr.interaction.toolkit@1.0.0-pre.4
+- packageId: com.unity.xr.arkit@4.1.7
   testable: 0
   isDirectDependency: 1
-  version: 1.0.0-pre.4
+  version: 4.1.7
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.interaction.toolkit@1.0.0-pre.4
-  assetPath: Packages/com.unity.xr.interaction.toolkit
-  name: com.unity.xr.interaction.toolkit
-  displayName: XR Interaction Toolkit
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.arkit@4.1.7
+  assetPath: Packages/com.unity.xr.arkit
+  name: com.unity.xr.arkit
+  displayName: ARKit XR Plugin
   author:
     name: 
     email: 
     url: 
-  category: XR
+  category: 
   type: 
-  description: A high-level, component-based, interaction system for creating VR
-    and AR experiences. It provides a framework that makes 3D and UI interactions
-    available from Unity input events. The core of this system is a set of base Interactor
-    and Interactable components, and an Interaction Manager that ties these two types
-    of components together. It also contains helper components that you can use to
-    extend functionality for drawing visuals and hooking in your own interaction
-    events.
+  description: 'Provides native Apple ARKit integration for use with Unity''s multi-platform
+    XR API.
+
+    Supports the following features:
+
+    -Efficient Background Rendering
+
+    -Horizontal
+    Planes
+
+    -Depth Data
+
+    -Anchors
+
+    -Hit Testing
+
+    -Face Tracking
+
+    -Environment
+    Probes
+
+    -Meshing
+
+    -Occlusion'
   status: 4
   errors: []
   versions:
     all:
-    - 0.0.6-preview
-    - 0.9.0-preview
-    - 0.9.1-preview
-    - 0.9.2-preview
-    - 0.9.3-preview
-    - 0.9.4-preview
-    - 0.10.0-preview.7
-    - 1.0.0-pre.1
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
+    - 1.0.0-preview.11
+    - 1.0.0-preview.12
+    - 1.0.0-preview.13
+    - 1.0.0-preview.14
+    - 1.0.0-preview.15
+    - 1.0.0-preview.16
+    - 1.0.0-preview.17
+    - 1.0.0-preview.20
+    - 1.0.0-preview.23
+    - 1.0.0-preview.27
+    - 2.0.1
+    - 2.1.0-preview.3
+    - 2.1.0-preview.5
+    - 2.1.1
+    - 2.1.2
+    - 2.1.4
+    - 2.1.9
+    - 2.1.10
+    - 2.1.14
+    - 2.1.16
+    - 2.1.18
+    - 2.2.0-preview.1
+    - 2.2.0-preview.2
+    - 2.2.0-preview.3
+    - 2.2.0-preview.4
+    - 2.2.0-preview.5
+    - 2.2.0-preview.6
+    - 3.0.0-preview.1
+    - 3.0.0-preview.2
+    - 3.0.0-preview.3
+    - 3.0.0-preview.4
+    - 3.0.1
+    - 3.0.3
+    - 3.0.4
+    - 3.1.0-preview.1
+    - 3.1.0-preview.2
+    - 3.1.0-preview.4
+    - 3.1.0-preview.6
+    - 3.1.0-preview.7
+    - 3.1.0-preview.8
+    - 3.1.3
+    - 3.1.7
+    - 3.1.8
+    - 3.1.10
+    - 4.0.0-preview.1
+    - 4.0.0-preview.3
+    - 4.0.1
+    - 4.0.2
+    - 4.0.8
+    - 4.0.9
+    - 4.0.10
+    - 4.0.12
+    - 4.1.0-preview.1
+    - 4.1.0-preview.2
+    - 4.1.0-preview.3
+    - 4.1.0-preview.5
+    - 4.1.0-preview.6
+    - 4.1.0-preview.7
+    - 4.1.0-preview.9
+    - 4.1.0-preview.10
+    - 4.1.0-preview.11
+    - 4.1.0-preview.12
+    - 4.1.0-preview.13
+    - 4.1.1
+    - 4.1.3
+    - 4.1.5
+    - 4.1.7
+    - 4.2.0-pre.2
+    - 4.2.0-pre.3
+    - 4.2.0-pre.4
+    - 4.2.0-pre.7
+    - 4.2.0-pre.8
+    - 4.2.0-pre.9
+    - 4.2.0-pre.10
     compatible:
-    - 0.0.6-preview
-    - 0.9.0-preview
-    - 0.9.1-preview
-    - 0.9.2-preview
-    - 0.9.3-preview
-    - 0.9.4-preview
-    - 0.10.0-preview.7
-    - 1.0.0-pre.1
-    - 1.0.0-pre.2
-    - 1.0.0-pre.3
-    - 1.0.0-pre.4
-    verified: 
+    - 4.1.7
+    - 4.2.0-pre.2
+    - 4.2.0-pre.3
+    - 4.2.0-pre.4
+    - 4.2.0-pre.7
+    - 4.2.0-pre.8
+    - 4.2.0-pre.9
+    - 4.2.0-pre.10
+    verified: 4.1.7
   dependencies:
-  - name: com.unity.inputsystem
-    version: 1.0.2
-  - name: com.unity.ugui
+  - name: com.unity.editorcoroutines
     version: 1.0.0
-  - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.7
+  - name: com.unity.xr.arsubsystems
+    version: 4.1.7
+  - name: com.unity.xr.management
+    version: 4.0.1
   resolvedDependencies:
-  - name: com.unity.inputsystem
-    version: 1.0.2
-  - name: com.unity.ugui
+  - name: com.unity.editorcoroutines
     version: 1.0.0
-  - name: com.unity.modules.ui
+  - name: com.unity.xr.arsubsystems
+    version: 4.1.7
+  - name: com.unity.subsystemregistration
+    version: 1.1.0
+  - name: com.unity.modules.subsystems
     version: 1.0.0
-  - name: com.unity.modules.imgui
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.xr.management
+    version: 4.0.5
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
     version: 2.1.7
+  keywords:
+  - arkit
+  - ar
+  - augmented
+  - xr
+  - reality
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637535034190000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/arfoundation.git
+    revision: b5352c36faf68b8ffc1bbddaa0f204f75d4ac5fb
+    path: 
+  unityLifecycle:
+    version: 4.1.7
+    nextVersion: 
+- packageId: com.unity.xr.arkit-face-tracking@4.1.7
+  testable: 0
+  isDirectDependency: 1
+  version: 4.1.7
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.arkit-face-tracking@4.1.7
+  assetPath: Packages/com.unity.xr.arkit-face-tracking
+  name: com.unity.xr.arkit-face-tracking
+  displayName: ARKit Face Tracking
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "Support for face tracking on ARKit.\n\nIncludes support for: \n\u25AA
+    Face pose tracking \n\u25AA Blendshapes \n\nNote: Only supported on devices with
+    a forward-facing depth camera, like the iPhone X"
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.4
+    - 1.0.0-preview.6
+    - 1.0.1
+    - 1.0.2
+    - 1.0.7
+    - 1.0.8
+    - 1.0.9
+    - 1.0.11
+    - 1.0.13
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.0-preview.5
+    - 1.1.0-preview.6
+    - 3.0.0-preview.1
+    - 3.0.0-preview.2
+    - 3.0.0-preview.3
+    - 3.0.0-preview.4
+    - 3.0.1
+    - 3.1.0-preview.1
+    - 3.1.0-preview.2
+    - 3.1.0-preview.4
+    - 3.1.0-preview.6
+    - 3.1.0-preview.7
+    - 3.1.0-preview.8
+    - 3.1.3
+    - 3.1.6
+    - 3.1.7
+    - 3.1.10
+    - 4.0.0-preview.1
+    - 4.0.0-preview.3
+    - 4.0.1
+    - 4.0.2
+    - 4.0.8
+    - 4.0.9
+    - 4.0.10
+    - 4.0.12
+    - 4.1.0-preview.1
+    - 4.1.0-preview.2
+    - 4.1.0-preview.3
+    - 4.1.0-preview.5
+    - 4.1.0-preview.6
+    - 4.1.0-preview.7
+    - 4.1.0-preview.9
+    - 4.1.0-preview.10
+    - 4.1.0-preview.11
+    - 4.1.0-preview.12
+    - 4.1.0-preview.13
+    - 4.1.1
+    - 4.1.3
+    - 4.1.5
+    - 4.1.7
+    - 4.2.0-pre.2
+    - 4.2.0-pre.3
+    - 4.2.0-pre.4
+    - 4.2.0-pre.7
+    - 4.2.0-pre.8
+    - 4.2.0-pre.9
+    - 4.2.0-pre.10
+    compatible:
+    - 4.1.7
+    - 4.2.0-pre.2
+    - 4.2.0-pre.3
+    - 4.2.0-pre.4
+    - 4.2.0-pre.7
+    - 4.2.0-pre.8
+    - 4.2.0-pre.9
+    - 4.2.0-pre.10
+    verified: 4.1.7
+  dependencies:
+  - name: com.unity.xr.arkit
+    version: 4.1.7
+  - name: com.unity.xr.arsubsystems
+    version: 4.1.7
+  resolvedDependencies:
+  - name: com.unity.xr.arkit
+    version: 4.1.7
+  - name: com.unity.editorcoroutines
+    version: 1.0.0
+  - name: com.unity.xr.arsubsystems
+    version: 4.1.7
+  - name: com.unity.subsystemregistration
+    version: 1.1.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.xr.management
+    version: 4.0.5
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.7
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637535034300000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/arfoundation.git
+    revision: b5352c36faf68b8ffc1bbddaa0f204f75d4ac5fb
+    path: 
+  unityLifecycle:
+    version: 4.1.7
+    nextVersion: 
+- packageId: com.unity.xr.magicleap@6.2.2
+  testable: 0
+  isDirectDependency: 1
+  version: 6.2.2
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.magicleap@6.2.2
+  assetPath: Packages/com.unity.xr.magicleap
+  name: com.unity.xr.magicleap
+  displayName: Magic Leap XR Plugin
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'Provides rendering and spatial mapping support for Magic Leap.
+
+
+    NOTE:
+    As of Unity 2019.2, Legacy XR support for MagicLeap is disabled in favor of XR
+    SDK'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.0.0-preview.15
+    - 2.0.0-preview.16
+    - 2.0.0-preview.17
+    - 2.0.0-preview.18
+    - 2.0.0-preview.19
+    - 3.0.0-preview.5
+    - 3.0.0-preview.6
+    - 3.0.0-preview.7
+    - 3.0.0-preview.9
+    - 3.0.0-preview.10
+    - 3.0.0-preview.11
+    - 3.0.0-preview.12
+    - 4.0.0-preview.2
+    - 4.0.0-preview.3
+    - 4.0.1-preview.1
+    - 4.0.2-preview.1
+    - 4.0.3-preview.1
+    - 4.0.3-preview.2
+    - 4.0.5
+    - 4.0.6-preview.1
+    - 4.0.6-preview.2
+    - 4.0.6-preview.4
+    - 4.0.6-preview.5
+    - 4.1.3
+    - 4.2.0-preview.3
+    - 4.2.2
+    - 4.2.3-preview.1
+    - 5.0.0
+    - 5.0.1-preview.1
+    - 5.1.1
+    - 5.1.2
+    - 5.2.0-preview.1
+    - 6.0.0
+    - 6.1.0-preview.2
+    - 6.2.0
+    - 6.2.2
+    - 6.3.0-preview.1
+    compatible:
+    - 6.2.2
+    - 6.3.0-preview.1
+    verified: 6.2.2
+  dependencies:
+  - name: com.unity.modules.screencapture
+    version: 1.0.0
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.xr.arsubsystems
+    version: 4.0.12
+  - name: com.unity.xr.interactionsubsystems
+    version: 1.0.1
+  - name: com.unity.xr.management
+    version: 4.0.1
+  resolvedDependencies:
+  - name: com.unity.modules.screencapture
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
   - name: com.unity.modules.vr
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
@@ -1575,75 +1891,29 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.subsystems
     version: 1.0.0
-  keywords:
-  - XR
-  - VR
-  - toolkit
-  - interaction
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hasRegistry: 1
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637569811150000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit.git
-    revision: ce29e6f82e35cdca8ca8bbc4a5a3393c1aa2b919
-    path: 
-  unityLifecycle:
-    version: 
-    nextVersion: 1.0.0-pre.4
-- packageId: com.unity.xr.interactionsubsystems@1.0.1
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.1
-  source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.interactionsubsystems@1.0.1
-  assetPath: Packages/com.unity.xr.interactionsubsystems
-  name: com.unity.xr.interactionsubsystems
-  displayName: XR Interaction Subsystems
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Contains definitions for Interaction Subsystems. This package is a
-    dependency of provider packages.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.1-preview.3
-    - 1.0.0
-    - 1.0.1
-    compatible:
-    - 1.0.1
-    verified: 1.0.1
-  dependencies:
-  - name: com.unity.subsystemregistration
-    version: 1.0.5
-  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.xr.arsubsystems
+    version: 4.1.7
   - name: com.unity.subsystemregistration
     version: 1.1.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
+  - name: com.unity.xr.interactionsubsystems
+    version: 1.0.1
+  - name: com.unity.xr.management
+    version: 4.0.5
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.7
   keywords:
-  - subsystem
-  - XR
-  - Interaction
+  - magicleap
+  - ar
+  - augmented
+  - xr
+  - reality
+  - xreditorsubsystem
   registry:
     id: main
     name: 
@@ -1656,23 +1926,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637056471600000000
+  datePublishedTicks: 637492651020000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: git@github.cds.internal.unity3d.com:unity/com.unity.xr.interactionsubsystems.git
-    revision: c9d1e6a52c5806d8ec4d9f74ec9eaaf54f07d2c6
+    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.magicleap.git
+    revision: 0c951c7b40e1977d835807ffad84eaa18345ec1a
     path: 
   unityLifecycle:
-    version: 1.0.1
+    version: 6.2.2
     nextVersion: 
-- packageId: com.unity.xr.management@4.0.6
+- packageId: com.unity.xr.management@4.0.5
   testable: 0
   isDirectDependency: 1
-  version: 4.0.6
+  version: 4.0.5
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.management@4.0.6
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.management@4.0.5
   assetPath: Packages/com.unity.xr.management
   name: com.unity.xr.management
   displayName: XR Plugin Management
@@ -1782,47 +2052,136 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637588801560000000
+  datePublishedTicks: 637559439630000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
-    revision: abdf3fbaa4f4cde7145c508df7d60d9ca6f4ecc3
+    revision: 59665b284b3b388bea2dcb98a8f3e4748694f3e6
     path: 
   unityLifecycle:
     version: 4.0.5
     nextVersion: 
-- packageId: nuget.mono-cecil@0.1.6-preview
+- packageId: com.unity.xr.windowsmr@5.3.0
   testable: 0
   isDirectDependency: 1
-  version: 0.1.6-preview
+  version: 5.3.0
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\nuget.mono-cecil@0.1.6-preview
-  assetPath: Packages/nuget.mono-cecil
-  name: nuget.mono-cecil
-  displayName: Mono Cecil
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.windowsmr@5.3.0
+  assetPath: Packages/com.unity.xr.windowsmr
+  name: com.unity.xr.windowsmr
+  displayName: Windows XR Plugin
   author:
     name: 
     email: 
     url: 
-  category: Libraries
+  category: 
   type: 
-  description: The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
+  description: 'Notice: Microsoft has transitioned support of Windows MR devices
+    to OpenXR in Unity 2021, and recommends using Unity''s OpenXR plugin. As such,
+    this Windows XR plugin is marked as deprecated and will be removed in the 2021.2
+    release. It will continue to be supported in the 2020 LTS. Provides implementation
+    and support for Unity XR SDK, allowing integration and use of Windows Mixed Reality
+    devices.'
   status: 4
   errors: []
   versions:
     all:
-    - 0.1.5-preview
-    - 0.1.6-preview
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.0-preview.9
+    - 2.0.1
+    - 2.0.3-preview.1
+    - 2.0.3
+    - 2.0.4-preview.3
+    - 2.0.4-preview.4
+    - 2.1.5
+    - 2.1.6-preview.1
+    - 2.1.6-preview.2
+    - 2.1.6-preview.3
+    - 2.2.0
+    - 2.3.0
+    - 2.3.1-preview.1
+    - 2.4.1-preview.1
+    - 2.4.1
+    - 2.5.2
+    - 2.6.0
+    - 2.6.1
+    - 2.7.0
+    - 2.8.0
+    - 3.0.0
+    - 3.0.1-preview.3
+    - 3.0.1-preview.4
+    - 3.1.3
+    - 3.1.5
+    - 3.1.6-preview.1
+    - 3.1.6-preview.2
+    - 3.1.6-preview.3
+    - 3.2.0
+    - 3.3.1
+    - 3.4.0
+    - 4.0.2
+    - 4.1.1
+    - 4.2.1
+    - 4.3.2
+    - 4.4.0
+    - 4.4.1
+    - 4.4.2
+    - 4.5.0
+    - 5.0.0
+    - 5.1.0-exp.1
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.3.0
     compatible:
-    - 0.1.5-preview
-    - 0.1.6-preview
-    verified: 
-  dependencies: []
-  resolvedDependencies: []
+    - 5.3.0
+    verified: 5.3.0
+  dependencies:
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.xr.management
+    version: 4.0.1
+  - name: com.unity.xr.interactionsubsystems
+    version: 1.0.1
+  - name: com.unity.xr.arsubsystems
+    version: 4.0.9
+  resolvedDependencies:
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.xr.management
+    version: 4.0.5
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.7
+  - name: com.unity.subsystemregistration
+    version: 1.1.0
+  - name: com.unity.xr.interactionsubsystems
+    version: 1.0.1
+  - name: com.unity.xr.arsubsystems
+    version: 4.1.7
   keywords:
-  - mono cecil
+  - windows
+  - ar
+  - augmented
+  - xr
+  - reality
+  - xreditorsubsystem
+  - mixed
+  - hololens
   registry:
     id: main
     name: 
@@ -1835,23 +2194,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 636898921610000000
+  datePublishedTicks: 637551426630000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: git@gitlab.cds.internal.unity3d.com/upm-packages/core/nuget.mono-cecil.git
-    revision: d9e57e10c26ba36a62a828729ad08eb73d0386b6
+    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.windowsmr.git
+    revision: aa99f885ded7c184905b75a49ec8195a887e2ca4
     path: 
   unityLifecycle:
-    version: 
+    version: 5.3.0
     nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1902,7 +2261,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1952,7 +2311,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -2003,7 +2362,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -2054,7 +2413,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -2105,7 +2464,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -2160,7 +2519,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -2219,7 +2578,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2271,7 +2630,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2322,7 +2681,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2373,7 +2732,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2424,7 +2783,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2475,7 +2834,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2526,7 +2885,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2581,7 +2940,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2632,7 +2991,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2691,7 +3050,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2745,7 +3104,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2796,7 +3155,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2863,7 +3222,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2914,7 +3273,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2973,7 +3332,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -3024,7 +3383,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -3083,7 +3442,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -3142,7 +3501,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -3201,7 +3560,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -3276,7 +3635,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3331,7 +3690,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3394,7 +3753,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3459,7 +3818,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3510,7 +3869,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3573,7 +3932,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3628,7 +3987,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -3685,78 +4044,47 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.xr.legacyinputhelpers@2.1.7
+- packageId: com.unity.xr.interactionsubsystems@1.0.1
   testable: 0
   isDirectDependency: 0
-  version: 2.1.7
+  version: 1.0.1
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
-  assetPath: Packages/com.unity.xr.legacyinputhelpers
-  name: com.unity.xr.legacyinputhelpers
-  displayName: XR Legacy Input Helpers
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.interactionsubsystems@1.0.1
+  assetPath: Packages/com.unity.xr.interactionsubsystems
+  name: com.unity.xr.interactionsubsystems
+  displayName: XR Interaction Subsystems
   author:
     name: 
     email: 
     url: 
-  category: XR
+  category: 
   type: 
-  description: This package includes the tracked pose driver for the legacy input
-    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
-    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
-    track input devices, the XR Bindings Seeding Tool adds a menu item under the
-    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
-    Bindings
+  description: Contains definitions for Interaction Subsystems. This package is a
+    dependency of provider packages.
   status: 4
   errors: []
   versions:
     all:
+    - 0.0.1-preview.3
     - 1.0.0
-    - 1.0.2
-    - 1.0.3
-    - 1.3.1
-    - 1.3.2
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.11
-    - 2.0.1
-    - 2.0.2
-    - 2.0.4
-    - 2.0.6
-    - 2.0.8
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.6
-    - 2.1.7
+    - 1.0.1
     compatible:
-    - 2.1.7
-    verified: 2.1.7
+    - 1.0.1
+    verified: 1.0.1
   dependencies:
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
+  - name: com.unity.subsystemregistration
+    version: 1.0.5
   resolvedDependencies:
-  - name: com.unity.modules.vr
+  - name: com.unity.subsystemregistration
+    version: 1.1.0
+  - name: com.unity.modules.subsystems
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
   keywords:
-  - TPD
-  - Tracked Pose Driver
+  - subsystem
   - XR
-  - Input
-  - Helpers
+  - Interaction
   registry:
     id: main
     name: 
@@ -3769,23 +4097,23 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637434003470000000
+  datePublishedTicks: 637056471600000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-    revision: b2024928b8140a10ad43aeb5824d2f08bb8796bc
+    url: git@github.cds.internal.unity3d.com:unity/com.unity.xr.interactionsubsystems.git
+    revision: c9d1e6a52c5806d8ec4d9f74ec9eaaf54f07d2c6
     path: 
   unityLifecycle:
-    version: 2.1.7
+    version: 1.0.1
     nextVersion: 
 - packageId: com.unity.xr.arsubsystems@4.1.7
   testable: 0
   isDirectDependency: 0
   version: 4.1.7
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.xr.arsubsystems@4.1.7
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.arsubsystems@4.1.7
   assetPath: Packages/com.unity.xr.arsubsystems
   name: com.unity.xr.arsubsystems
   displayName: AR Subsystems
@@ -3908,12 +4236,232 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 4.1.7
     nextVersion: 
+- packageId: com.unity.xr.legacyinputhelpers@2.1.7
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.7
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.7
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
+  author:
+    name: 
+    email: 
+    url: 
+  category: XR
+  type: 
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    compatible:
+    - 2.1.7
+    verified: 2.1.7
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637434003470000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: b2024928b8140a10ad43aeb5824d2f08bb8796bc
+    path: 
+  unityLifecycle:
+    version: 2.1.7
+    nextVersion: 
+- packageId: com.unity.subsystemregistration@1.1.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.1.0
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.subsystemregistration@1.1.0
+  assetPath: Packages/com.unity.subsystemregistration
+  name: com.unity.subsystemregistration
+  displayName: Subsystem Registration
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Provides internal registration mechanism for standalone subsystems. 
+    It allows a standalone subsystem to inform the Subsystem Manager of its existence.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.4
+    - 1.0.4
+    - 1.0.5
+    - 1.0.6
+    - 1.1.0
+    compatible:
+    - 1.1.0
+    verified: 1.1.0
+  dependencies:
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - subsystem
+  - registration
+  - internal
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637314426150000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.subsystemregistration.git
+    revision: 72584ba5248fbe79e560e795ad819f876954fceb
+    path: 
+  unityLifecycle:
+    version: 1.1.0
+    nextVersion: 
+- packageId: com.unity.editorcoroutines@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  assetPath: Packages/com.unity.editorcoroutines
+  name: com.unity.editorcoroutines
+  displayName: Editor Coroutines
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'The editor coroutines package allows developers to start constructs
+    similar to Unity''s monobehaviour based coroutines within the editor using abitrary
+    objects. '
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.1-preview.3
+    - 0.0.1-preview.4
+    - 0.0.1-preview.5
+    - 0.0.2-preview.1
+    - 0.1.0-preview.1
+    - 0.1.0-preview.2
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - coroutine
+  - coroutines
+  - editor
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637232611380000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.editorcoroutines.git
+    revision: f67fc9992bbc7a553b17375de53a8b2db136528e
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.sysroot@0.1.19-preview
   testable: 0
   isDirectDependency: 0
   version: 0.1.19-preview
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.sysroot@0.1.19-preview
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.sysroot@0.1.19-preview
   assetPath: Packages/com.unity.sysroot
   name: com.unity.sysroot
   displayName: Sysroot Base
@@ -3989,7 +4537,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 0.1.14-preview
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.sysroot.linux-x86_64@0.1.14-preview
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.sysroot.linux-x86_64@0.1.14-preview
   assetPath: Packages/com.unity.sysroot.linux-x86_64
   name: com.unity.sysroot.linux-x86_64
   displayName: Sysroot Linux x64
@@ -4064,7 +4612,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4118,209 +4666,108 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.render-pipelines.core@11.0.0
+- packageId: com.unity.settings-manager@1.0.3
   testable: 0
   isDirectDependency: 0
-  version: 11.0.0
-  source: 2
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.render-pipelines.core@11.0.0
-  assetPath: Packages/com.unity.render-pipelines.core
-  name: com.unity.render-pipelines.core
-  displayName: Core RP Library
+  version: 1.0.3
+  source: 1
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.settings-manager@1.0.3
+  assetPath: Packages/com.unity.settings-manager
+  name: com.unity.settings-manager
+  displayName: Settings Manager
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: SRP Core makes it easier to create or customize a Scriptable Render
-    Pipeline (SRP). SRP Core contains reusable code, including boilerplate code for
-    working with platform-specific graphics APIs, utility functions for common rendering
-    operations, and  shader libraries. The code in SRP Core is use by the High Definition
-    Render Pipeline (HDRP) and Universal Render Pipeline (URP). If you are creating
-    a custom SRP from scratch or customizing a prebuilt SRP, using SRP Core will
-    save you time.
+  description: A framework for making any serializable field a setting, complete
+    with a pre-built settings interface.
   status: 4
   errors: []
   versions:
     all:
-    - 0.1.21
-    - 0.1.27
-    - 0.1.28
-    - 1.0.0-beta
-    - 1.0.1-beta
-    - 1.1.1-preview
-    - 1.1.2-preview
-    - 1.1.4-preview
-    - 1.1.5-preview
-    - 1.1.8-preview
-    - 1.1.10-preview
-    - 1.1.11-preview
-    - 2.0.1-preview
-    - 2.0.3-preview
-    - 2.0.4-preview
-    - 2.0.4-preview.1
-    - 2.0.5-preview
-    - 2.0.6-preview
-    - 2.0.7-preview
-    - 2.0.8-preview
-    - 3.0.0-preview
-    - 3.1.0-preview
-    - 3.3.0-preview
-    - 4.0.0-preview
-    - 4.0.1-preview
-    - 4.1.0-preview
-    - 4.2.0-preview
-    - 4.3.0-preview
-    - 4.6.0-preview
-    - 4.8.0-preview
-    - 4.9.0-preview
-    - 4.10.0-preview
-    - 5.0.0-preview
-    - 5.1.0
-    - 5.2.0
-    - 5.2.1
-    - 5.2.2
-    - 5.2.3
-    - 5.3.1
-    - 5.6.1
-    - 5.7.2
-    - 5.8.2
-    - 5.9.0
-    - 5.10.0
-    - 5.13.0
-    - 5.16.1
-    - 6.5.2
-    - 6.5.3
-    - 6.7.1
-    - 6.9.0
-    - 6.9.1
-    - 6.9.2
-    - 7.0.0
-    - 7.0.1
-    - 7.1.1
-    - 7.1.2
-    - 7.1.5
-    - 7.1.6
-    - 7.1.7
-    - 7.1.8
-    - 7.2.0
-    - 7.2.1
-    - 7.3.1
-    - 7.4.1
-    - 7.4.2
-    - 7.4.3
-    - 7.5.1
-    - 7.5.2
-    - 7.5.3
-    - 7.6.0
-    - 7.7.0
-    - 8.0.1
-    - 8.1.0
-    - 8.2.0
-    - 8.3.1
-    - 9.0.0-preview.13
-    - 9.0.0-preview.35
-    - 9.0.0-preview.38
-    - 9.0.0-preview.60
-    - 9.0.0-preview.77
-    - 10.0.0-preview.30
-    - 10.1.0
-    - 10.2.0
-    - 10.2.1
-    - 10.2.2
-    - 10.3.1
-    - 10.3.2
-    - 10.4.0
-    - 10.5.0
-    - 10.5.1
-    - 11.0.0
+    - 0.1.0-preview.4
+    - 0.1.0-preview.8
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.0.3
     compatible:
-    - 11.0.0
-    verified: 11.0.0
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
+    - 1.0.3
+    verified: 1.0.3
+  dependencies: []
+  resolvedDependencies: []
   keywords: []
   registry:
-    id: 
+    id: main
     name: 
-    url: 
+    url: https://packages.unity.com
     scopes: []
-    isDefault: 0
-    capabilities: 0
-  hasRegistry: 0
+    isDefault: 1
+    capabilities: 7
+  hasRegistry: 1
   hideInEditor: 1
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637300096300000000
   documentationUrl: 
-  hasRepository: 0
+  hasRepository: 1
   repository:
-    type: 
-    url: 
-    revision: 
+    type: git
+    url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 473664ccba1496294b741cf169740a5d54b3d0b6
     path: 
   unityLifecycle:
-    version: 11.0.0
+    version: 1.0.3
     nextVersion: 
-- packageId: com.unity.searcher@4.3.2
+- packageId: com.unity.nuget.newtonsoft-json@2.0.0
   testable: 0
   isDirectDependency: 0
-  version: 4.3.2
+  version: 2.0.0
   source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.searcher@4.3.2
-  assetPath: Packages/com.unity.searcher
-  name: com.unity.searcher
-  displayName: Searcher
+  resolvedPath: C:\Users\sanji\OneDrive\Desktop\ARFoundation\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: General search window for use in the Editor. First target use is for
-    GraphView node search.
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 12.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
   status: 4
   errors: []
   versions:
     all:
-    - 4.0.0-preview
-    - 4.0.0
-    - 4.0.7-preview
-    - 4.0.7
-    - 4.0.8-preview
-    - 4.0.9
-    - 4.1.0-preview
-    - 4.1.0
-    - 4.2.0
-    - 4.3.0
-    - 4.3.1
-    - 4.3.2
-    - 4.6.0-preview
-    - 4.7.0-preview
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
     compatible:
-    - 4.3.2
-    - 4.6.0-preview
-    - 4.7.0-preview
-    verified: 4.3.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    verified: 2.0.0
   dependencies: []
   resolvedDependencies: []
-  keywords:
-  - search
-  - searcher
+  keywords: []
   registry:
     id: main
     name: 
@@ -4333,79 +4780,14 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637509898070000000
+  datePublishedTicks: 637237898320000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
-    revision: 798bfb84c8f09f7788a3a88c3c16d72c50451530
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
     path: 
   unityLifecycle:
-    version: 4.3.2
-    nextVersion: 
-- packageId: com.unity.mathematics@1.2.1
-  testable: 0
-  isDirectDependency: 0
-  version: 1.2.1
-  source: 1
-  resolvedPath: C:\Users\sanji\OneDrive\Desktop\UnityFirebaseAuthTutorial-master\FirebaseAuthTutorialStarterProject\Library\PackageCache\com.unity.mathematics@1.2.1
-  assetPath: Packages/com.unity.mathematics
-  name: com.unity.mathematics
-  displayName: Mathematics
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: Unity's C# SIMD math library providing vector types and math functions
-    with a shader like syntax.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.0.12-preview.2
-    - 0.0.12-preview.5
-    - 0.0.12-preview.8
-    - 0.0.12-preview.10
-    - 0.0.12-preview.11
-    - 0.0.12-preview.13
-    - 0.0.12-preview.17
-    - 0.0.12-preview.19
-    - 0.0.12-preview.20
-    - 1.0.0-preview.1
-    - 1.0.1
-    - 1.1.0-preview.1
-    - 1.1.0
-    - 1.2.1
-    compatible:
-    - 1.2.1
-    verified: 1.2.1
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hasRegistry: 1
-  hideInEditor: 1
-  entitlements:
-    isAllowed: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637324062630000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: git+https://github.com/Unity-Technologies/Unity.Mathematics.git
-    revision: 71412d94b7a0b0fdbb3195a5e6559bf6a761e91a
-    path: 
-  unityLifecycle:
-    version: 1.2.1
+    version: 2.0.0
     nextVersion: 

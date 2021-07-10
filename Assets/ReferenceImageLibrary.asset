@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5243036923033079724
+  m_GuidHigh: 3595012873924274048
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5453533348009276877
+      m_GuidHigh: 11940398933624533418
+    m_SerializedTextureGuid:
+      m_GuidLow: 11282859697043486128
+      m_GuidHigh: 5721379446817368235
+    m_Size: {x: 0.20211267, y: 0.303169}
+    m_SpecifySize: 1
+    m_Name: Iron_Man_(circa_2018)
+    m_Texture: {fileID: 0}

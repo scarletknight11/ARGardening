@@ -98,11 +98,16 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
--define:ENABLE_INPUT_SYSTEM
 -define:ENABLE_LEGACY_INPUT_MANAGER
--define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
+-r:"Assets/Firebase/Plugins/Firebase.App.dll"
+-r:"Assets/Firebase/Plugins/Firebase.Auth.dll"
+-r:"Assets/Firebase/Plugins/Firebase.Platform.dll"
+-r:"Assets/Firebase/Plugins/Firebase.TaskExtension.dll"
+-r:"Assets/Firebase/Plugins/Google.MiniJson.dll"
+-r:"Assets/Parse/Plugins/dotNet45/Unity.Compat.dll"
+-r:"Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll"
@@ -280,27 +285,27 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.VRModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.WindModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.13f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Managed/UnityEngine.XRModule.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/com.unity.multiplayer-hlapi.Runtime.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.InputSystem.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Mathematics.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Postprocessing.Runtime.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipelines.Core.ShaderLibrary.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.RenderPipelines.Universal.Shaders.ref.dll"
+-r:"C:/Users/sanji/OneDrive/Desktop/ARFoundation/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/AOT/Newtonsoft.Json.dll"
+-r:"C:/Users/sanji/OneDrive/Desktop/ARFoundation/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.InteractiveTutorials.Core.Scripts.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Subsystem.Registration.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.TextMeshPro.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Core.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.Flow.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.ARCore.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.ARFoundation.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.ARSubsystems.ref.dll"
--r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.Interaction.Toolkit.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.InteractionSubsystems.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.XR.Management.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/ExampleAssets/Scripts/AnchorCreator.cs"
+"Assets/ExampleAssets/Scripts/ARFeatheredPlaneMeshVisualizer.cs"
+"Assets/Scripts/AuthManager.cs"
+"Assets/Scripts/ImageRecognitionExample.cs"
 "Assets/Scripts/UIManager.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
@@ -337,7 +342,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
 -langversion:8.0
-/unsafe+
+
 /deterministic
 /optimize+
 /debug:portable
